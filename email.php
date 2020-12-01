@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body bgcolor="powderblue">
+<body bgcolor="cyan">
 
 <p>
 This is an email link:
